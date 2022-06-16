@@ -4,7 +4,7 @@
   
   
   
-  ![](https://komarev.com/ghpvc/?username=rohinidas18)
+  ![](https://komarev.com/ghpvc/?username=rohinidas18&style=plastic)
 
 <!--
 **rohinidas18/rohinidas18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
