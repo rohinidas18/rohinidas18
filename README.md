@@ -1,5 +1,6 @@
 # Hi there 👋
-  #### I'm Rohini, and I love to learn and create :)
+
+  ### I'm Rohini, and I love to learn and create :)
   
   #### • My favorite languages to work with are    ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
  	
