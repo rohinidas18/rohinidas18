@@ -29,7 +29,7 @@
   #### • I mostly use --> ![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)![](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
   
   <p align="center">
-  #### Come say hi! 😄
+  <h2> Come say hi! 😄 </h2>
   </p>
 
 <!-- **rohinidas18/rohinidas18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
