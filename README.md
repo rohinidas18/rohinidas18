@@ -15,7 +15,7 @@
   #### • I mostly use
   ![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)![](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
   
-  Come say hi! ![](https://icons8.com/icons/set/github-linkedin-stackoverflow-twitter)
+  Come say hi! ![](www.linkedin.com/in/rohini-das098)
   
   
   
