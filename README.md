@@ -23,7 +23,8 @@
   </p>  
   
 <p align="center">
-  <b> Come say hi! 😄 or checkout my [profile](https://rohinidas18.github.io/rohini.github.io/) </b>
+  <b> Come say hi! 😄
+  <b> Or, checkout my `[profile](https://rohinidas18.github.io/rohini.github.io/)` </b>
 </p>
 
 <!-- **rohinidas18/rohinidas18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
