@@ -19,24 +19,11 @@
       <a href="#"> <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> </a>
       <a href="#"> <img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> </a>
       <a href="#"> <img src = "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> </a>
-  </p>
-  
-  #### • Currently, I'm learning
-  <p align="center"> 
       <a href="#"> <img src = "https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> </a> 
-  </p>
-  
-  #### • I mostly use     
-    
-<p align="center"> 
-  <a href="#"> <img src = "https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"> </a> 
-  <a href="#"> <img src = "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> </a> 
-  <a href="#"> <img src = "https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white"> </a> 
-</p>
-  
+  </p>  
   
 <p align="center">
-  <b> Come say hi! 😄 </b>
+  <b> Come say hi! 😄 or checkout my [profile](https://rohinidas18.github.io/rohini.github.io/) </b>
 </p>
 
 <!-- **rohinidas18/rohinidas18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
