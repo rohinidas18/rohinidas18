@@ -21,10 +21,12 @@
       <a href="#"> <img src = "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> </a>
       <a href="#"> <img src = "https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> </a> 
   </p>  
-  
+
+<br>
+
 <p align="center">
   <b> Come say hi! 😄
-  <b> Or, checkout my `[profile](https://rohinidas18.github.io/rohini.github.io/)` </b>
+  <b> Or, checkout: https://rohinidas18.github.io/rohini.github.io/ </b>
 </p>
 
 <!-- **rohinidas18/rohinidas18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
